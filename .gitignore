@@ -1,0 +1,15 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Session navigateur et données personnelles
+profiles/
+chrome-profile/
+drive.db
+
+# Scripts
+\add_license.py
